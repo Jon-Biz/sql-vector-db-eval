@@ -1,0 +1,140 @@
+{
+  "build_info": {
+    "sqlite_dist_version": "TODO"
+  },
+  "artifacts": [
+    {
+      "kind": "sqlpkg",
+      "name": "sqlpkg.json",
+      "path": "distx/sqlpkg/sqlpkg.json",
+      "checksum_sha256": "0d6744ef27507ef94a51c63f3aeb601da72e5c99e57d7818c11d3fe30ac7ac02",
+      "size": 451
+    },
+    {
+      "kind": "spm",
+      "name": "spm.json",
+      "path": "distx/spm/spm.json",
+      "checksum_sha256": "835347bad32981f5f18883e1e6acb9dbbbd303bce7326e3261b668c38efe973f",
+      "size": 1014
+    },
+    {
+      "kind": "amalgamation",
+      "name": "sqlite-lembed-0.0.1-alpha.4-amalgamation.tar.gz",
+      "path": "distx/amalgamation/sqlite-lembed-0.0.1-alpha.4-amalgamation.tar.gz",
+      "checksum_sha256": "fa38e953593fb4edc2d97e25c46ea0d437ee969a178131fb6921f6df978e11bd",
+      "size": 6170
+    },
+    {
+      "kind": "amalgamation",
+      "name": "sqlite-lembed-0.0.1-alpha.4-amalgamation.zip",
+      "path": "distx/amalgamation/sqlite-lembed-0.0.1-alpha.4-amalgamation.zip",
+      "checksum_sha256": "18a97844ccd177136293c8e9c064debb1f870aa39d307509b9203aa297f01d1c",
+      "size": 6389
+    },
+    {
+      "kind": "github-release-loadable",
+      "name": "sqlite-lembed-0.0.1-alpha.4-loadable-linux-x86_64.tar.gz",
+      "path": "distx/github_releases/sqlite-lembed-0.0.1-alpha.4-loadable-linux-x86_64.tar.gz",
+      "checksum_sha256": "01bf71a6402c1bcd76bce7245ccfd9757203874a3cdd0f7e65fa36ab8dd26d56",
+      "size": 883987
+    },
+    {
+      "kind": "github-release-loadable",
+      "name": "sqlite-lembed-0.0.1-alpha.4-loadable-macos-x86_64.tar.gz",
+      "path": "distx/github_releases/sqlite-lembed-0.0.1-alpha.4-loadable-macos-x86_64.tar.gz",
+      "checksum_sha256": "be525a795a6971284b1d3c113cd0dad08f75c273bd37eaaa851010872f6c26dc",
+      "size": 813153
+    },
+    {
+      "kind": "github-release-loadable",
+      "name": "sqlite-lembed-0.0.1-alpha.4-loadable-macos-aarch64.tar.gz",
+      "path": "distx/github_releases/sqlite-lembed-0.0.1-alpha.4-loadable-macos-aarch64.tar.gz",
+      "checksum_sha256": "4d12a3ee76920e9f9f626c8b9bc9fbc74f1e265ca16c44fbfd2574bd7a459183",
+      "size": 735357
+    },
+    {
+      "kind": "pip",
+      "name": "sqlite_lembed-0.0.1a4-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux1_x86_64.whl",
+      "path": "distx/pip/sqlite_lembed-0.0.1a4-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux1_x86_64.whl",
+      "checksum_sha256": "99571e47c28261571e231b207d6cfedd1d7c5dcab34515e6b148f16ba99ebccb",
+      "size": 2389197
+    },
+    {
+      "kind": "pip",
+      "name": "sqlite_lembed-0.0.1a4-py3-none-macosx_10_6_x86_64.whl",
+      "path": "distx/pip/sqlite_lembed-0.0.1a4-py3-none-macosx_10_6_x86_64.whl",
+      "checksum_sha256": "9b46494660344b3e22febb93269849e916b4213de3c00897a37851c64d44e117",
+      "size": 2122260
+    },
+    {
+      "kind": "pip",
+      "name": "sqlite_lembed-0.0.1a4-py3-none-macosx_11_0_arm64.whl",
+      "path": "distx/pip/sqlite_lembed-0.0.1a4-py3-none-macosx_11_0_arm64.whl",
+      "checksum_sha256": "76bff7de143af66def847b9a9a292ed80a9a3a6015a50b72b11cebe798657c6c",
+      "size": 1839307
+    },
+    {
+      "kind": "datasette",
+      "name": "datasette_sqlite_lembed-0.0.1a4-py3-none-any.whl",
+      "path": "distx/datasette/datasette_sqlite_lembed-0.0.1a4-py3-none-any.whl",
+      "checksum_sha256": "ed87d254f974a2bd1047cb781f4f259c09a80ab6e33104ceb569a16d644e03bc",
+      "size": 1950
+    },
+    {
+      "kind": "sqlite-utils",
+      "name": "sqlite_utils_sqlite_lembed-0.0.1a4-py3-none-any.whl",
+      "path": "distx/sqlite_utils/sqlite_utils_sqlite_lembed-0.0.1a4-py3-none-any.whl",
+      "checksum_sha256": "62749b6c426d89f6d1ee1f17bae76843ec01235f672069b74879b16c85a62f04",
+      "size": 2010
+    },
+    {
+      "kind": "npm",
+      "name": "sqlite-lembed-linux-x64.tar.gz",
+      "path": "distx/npm/sqlite-lembed-linux-x64.tar.gz",
+      "checksum_sha256": "b43b9002247703755b52be7ee0b47a87710e95eb8da24849f532c9b0145bfa96",
+      "size": 884397
+    },
+    {
+      "kind": "npm",
+      "name": "sqlite-lembed-darwin-x64.tar.gz",
+      "path": "distx/npm/sqlite-lembed-darwin-x64.tar.gz",
+      "checksum_sha256": "ed8043539eef5e2ada5ccac535cc1e9d7fb43697c0b20ae7a3799b094c876abc",
+      "size": 813561
+    },
+    {
+      "kind": "npm",
+      "name": "sqlite-lembed-darwin-arm64.tar.gz",
+      "path": "distx/npm/sqlite-lembed-darwin-arm64.tar.gz",
+      "checksum_sha256": "f8530480841ea0f427b927a90349f6dcd8b218b71d69d1b0f1d52db0a90cad20",
+      "size": 735748
+    },
+    {
+      "kind": "npm",
+      "name": "sqlite-lembed.tar.gz",
+      "path": "distx/npm/sqlite-lembed.tar.gz",
+      "checksum_sha256": "6a4b5895a6e0716602320d1fe49e56f36ec8a8c7f362b3d962388d55f611da64",
+      "size": 1354
+    },
+    {
+      "kind": "gem",
+      "name": "sqlite-lembed-0.0.1.alpha.4-x86_64-linux.gem",
+      "path": "distx/gem/sqlite-lembed-0.0.1.alpha.4-x86_64-linux.gem",
+      "checksum_sha256": "f06573482ea88cea4a1a300a8a64a434c1d695c1c66714bdf1a8f0739afdf9ca",
+      "size": 887808
+    },
+    {
+      "kind": "gem",
+      "name": "sqlite-lembed-0.0.1.alpha.4-x86_64-darwin.gem",
+      "path": "distx/gem/sqlite-lembed-0.0.1.alpha.4-x86_64-darwin.gem",
+      "checksum_sha256": "a7b62b7b298150232910b50ba47f90050004551b70c5ca3fbbf149b46fc708c8",
+      "size": 817152
+    },
+    {
+      "kind": "gem",
+      "name": "sqlite-lembed-0.0.1.alpha.4-arm64-darwin.gem",
+      "path": "distx/gem/sqlite-lembed-0.0.1.alpha.4-arm64-darwin.gem",
+      "checksum_sha256": "5a7ca3fb3d51e141b1e7660a9c5de4b6bfae6cc2cb6f9c7334f37760c9d79cf4",
+      "size": 739328
+    }
+  ]
+}

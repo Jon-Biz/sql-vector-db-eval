@@ -1,0 +1,19 @@
+{
+  "owner": "Alex Garcia",
+  "name": "sqlite-vec",
+  "version": "0.0.1-alpha.14",
+  "homepage": "https://alexgarcia.xyz/sqlite-vec",
+  "repository": "https://github.com/asg017/sqlite-vec",
+  "authors": [
+    "Alex Garcia"
+  ],
+  "license": "MIT OR Apache",
+  "description": "A vector search SQLite extension.",
+  "keywords": [],
+  "symbols": null,
+  "assets": {
+    "pattern": null,
+    "files": {},
+    "checksums": {}
+  }
+}

@@ -1,0 +1,5 @@
+sqlpkg.json 0d6744ef27507ef94a51c63f3aeb601da72e5c99e57d7818c11d3fe30ac7ac02
+spm.json 835347bad32981f5f18883e1e6acb9dbbbd303bce7326e3261b668c38efe973f
+sqlite-lembed-0.0.1-alpha.4-loadable-linux-x86_64.tar.gz 01bf71a6402c1bcd76bce7245ccfd9757203874a3cdd0f7e65fa36ab8dd26d56
+sqlite-lembed-0.0.1-alpha.4-loadable-macos-x86_64.tar.gz be525a795a6971284b1d3c113cd0dad08f75c273bd37eaaa851010872f6c26dc
+sqlite-lembed-0.0.1-alpha.4-loadable-macos-aarch64.tar.gz 4d12a3ee76920e9f9f626c8b9bc9fbc74f1e265ca16c44fbfd2574bd7a459183

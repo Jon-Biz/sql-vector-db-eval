@@ -1,0 +1,175 @@
+{
+  "build_info": {
+    "sqlite_dist_version": "TODO"
+  },
+  "artifacts": [
+    {
+      "kind": "sqlpkg",
+      "name": "sqlpkg.json",
+      "path": "distx/sqlpkg/sqlpkg.json",
+      "checksum_sha256": "36a41d54389e949a7f05143341026042a424cfd20e83a2605fa70234d61f201b",
+      "size": 426
+    },
+    {
+      "kind": "spm",
+      "name": "spm.json",
+      "path": "distx/spm/spm.json",
+      "checksum_sha256": "514f00f9db1f567eb13678f84567136c600c951d2a5d85279ba6235301fc201e",
+      "size": 1276
+    },
+    {
+      "kind": "amalgamation",
+      "name": "sqlite-vec-0.0.1-alpha.14-amalgamation.tar.gz",
+      "path": "distx/amalgamation/sqlite-vec-0.0.1-alpha.14-amalgamation.tar.gz",
+      "checksum_sha256": "b8412e3e83625a7aacb9ad7054e7c7aa13904b63706598fbfced30b5a59bfcf9",
+      "size": 35016
+    },
+    {
+      "kind": "amalgamation",
+      "name": "sqlite-vec-0.0.1-alpha.14-amalgamation.zip",
+      "path": "distx/amalgamation/sqlite-vec-0.0.1-alpha.14-amalgamation.zip",
+      "checksum_sha256": "9ea9a363c3b842821b7022c3437923590808089ab7c3f1a281ea61220156cf84",
+      "size": 35179
+    },
+    {
+      "kind": "github-release-loadable",
+      "name": "sqlite-vec-0.0.1-alpha.14-loadable-macos-aarch64.tar.gz",
+      "path": "distx/github_releases/sqlite-vec-0.0.1-alpha.14-loadable-macos-aarch64.tar.gz",
+      "checksum_sha256": "f0869db60f6de86d234466d4074cc8bb34230c2ed8c4f88728a566f7fa758bd1",
+      "size": 32656
+    },
+    {
+      "kind": "github-release-loadable",
+      "name": "sqlite-vec-0.0.1-alpha.14-loadable-linux-x86_64.tar.gz",
+      "path": "distx/github_releases/sqlite-vec-0.0.1-alpha.14-loadable-linux-x86_64.tar.gz",
+      "checksum_sha256": "49feb412ac062c0f9e0a6cd14f3845e29626209f91ee09968fa0bebf00927f5c",
+      "size": 37299
+    },
+    {
+      "kind": "github-release-loadable",
+      "name": "sqlite-vec-0.0.1-alpha.14-loadable-windows-x86_64.tar.gz",
+      "path": "distx/github_releases/sqlite-vec-0.0.1-alpha.14-loadable-windows-x86_64.tar.gz",
+      "checksum_sha256": "2dcbaae89f84105516a2a3d9e21699a39984df1b53bf29fd37c24323f576ac57",
+      "size": 63331
+    },
+    {
+      "kind": "github-release-loadable",
+      "name": "sqlite-vec-0.0.1-alpha.14-loadable-macos-x86_64.tar.gz",
+      "path": "distx/github_releases/sqlite-vec-0.0.1-alpha.14-loadable-macos-x86_64.tar.gz",
+      "checksum_sha256": "542447aaedcf8ab6f05f08bb7c9f7b5cdcff9eb40d8ce771c63ffea78c0a9d45",
+      "size": 35010
+    },
+    {
+      "kind": "pip",
+      "name": "sqlite_vec-0.0.1a14-py3-none-macosx_11_0_arm64.whl",
+      "path": "distx/pip/sqlite_vec-0.0.1a14-py3-none-macosx_11_0_arm64.whl",
+      "checksum_sha256": "ed9ff5616d0c235b4e69f98873a49f1712ab4b0a1e842ddce45bd5b2f2e0f5fb",
+      "size": 112184
+    },
+    {
+      "kind": "pip",
+      "name": "sqlite_vec-0.0.1a14-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux1_x86_64.whl",
+      "path": "distx/pip/sqlite_vec-0.0.1a14-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux1_x86_64.whl",
+      "checksum_sha256": "af3ca2155a494b1c1015592dbb3db0d176e651dbc4135b5c5729006c5d712f44",
+      "size": 96673
+    },
+    {
+      "kind": "pip",
+      "name": "sqlite_vec-0.0.1a14-py3-none-win_amd64.whl",
+      "path": "distx/pip/sqlite_vec-0.0.1a14-py3-none-win_amd64.whl",
+      "checksum_sha256": "7e96441593879f1a02758ce8d472bb39306d0b0b2300ea83bfd0781e92271456",
+      "size": 154151
+    },
+    {
+      "kind": "pip",
+      "name": "sqlite_vec-0.0.1a14-py3-none-macosx_10_6_x86_64.whl",
+      "path": "distx/pip/sqlite_vec-0.0.1a14-py3-none-macosx_10_6_x86_64.whl",
+      "checksum_sha256": "f1c99a5cdfab3ef1889b120945353d08c84fe4f7b9826a185a588988866cfd9b",
+      "size": 111337
+    },
+    {
+      "kind": "datasette",
+      "name": "datasette_sqlite_vec-0.0.1a14-py3-none-any.whl",
+      "path": "distx/datasette/datasette_sqlite_vec-0.0.1a14-py3-none-any.whl",
+      "checksum_sha256": "8cee8bd56746f980aa969f311fde861b74be1ff41066d78636bb127da81d4979",
+      "size": 1907
+    },
+    {
+      "kind": "sqlite-utils",
+      "name": "sqlite_utils_sqlite_vec-0.0.1a14-py3-none-any.whl",
+      "path": "distx/sqlite_utils/sqlite_utils_sqlite_vec-0.0.1a14-py3-none-any.whl",
+      "checksum_sha256": "bd23566cea7a7b57ba740e1b37dd745a6b1ec8c9752e797ccdd5448ce9198f42",
+      "size": 1967
+    },
+    {
+      "kind": "npm",
+      "name": "sqlite-vec-wasm-demo.tar.gz",
+      "path": "distx/npm/sqlite-vec-wasm-demo.tar.gz",
+      "checksum_sha256": "2a07313e71d5905694a2e1a694449c3dc9dbd0d65ba3f50cd371b7efd3d2f27e",
+      "size": 3025219
+    },
+    {
+      "kind": "npm",
+      "name": "sqlite-vec-darwin-arm64.tar.gz",
+      "path": "distx/npm/sqlite-vec-darwin-arm64.tar.gz",
+      "checksum_sha256": "5aedd248334718210992aa5e5dbb9a6f6d75eebfd4a659bbc12773a5f0a716ac",
+      "size": 33037
+    },
+    {
+      "kind": "npm",
+      "name": "sqlite-vec-linux-x64.tar.gz",
+      "path": "distx/npm/sqlite-vec-linux-x64.tar.gz",
+      "checksum_sha256": "778de5c47b66b4b93ddfc94ed9f3982bf54471b9ca1b6ef3ea15d42cc92feb73",
+      "size": 37657
+    },
+    {
+      "kind": "npm",
+      "name": "sqlite-vec-windows-x64.tar.gz",
+      "path": "distx/npm/sqlite-vec-windows-x64.tar.gz",
+      "checksum_sha256": "cd62f9ccbcbc39ce32097b0316f43e53a878ed9015042c84e5c3a9a571e27b78",
+      "size": 63711
+    },
+    {
+      "kind": "npm",
+      "name": "sqlite-vec-darwin-x64.tar.gz",
+      "path": "distx/npm/sqlite-vec-darwin-x64.tar.gz",
+      "checksum_sha256": "496a995d2a9b5e6fb7fded81908cabd8135ca0366316230d17e5ff92884955d3",
+      "size": 35384
+    },
+    {
+      "kind": "npm",
+      "name": "sqlite-vec.tar.gz",
+      "path": "distx/npm/sqlite-vec.tar.gz",
+      "checksum_sha256": "fae5a1a245cabcefa61c692282157bb153b800e4b63112b83111789bcfd586d7",
+      "size": 1349
+    },
+    {
+      "kind": "gem",
+      "name": "sqlite-vec-0.0.1.alpha.14-arm64-darwin.gem",
+      "path": "distx/gem/sqlite-vec-0.0.1.alpha.14-arm64-darwin.gem",
+      "checksum_sha256": "b1a2117f260328fa75f878ef42a7fce79ab7b0a1a44b7feeda92fd8ade228a27",
+      "size": 36864
+    },
+    {
+      "kind": "gem",
+      "name": "sqlite-vec-0.0.1.alpha.14-x86_64-linux.gem",
+      "path": "distx/gem/sqlite-vec-0.0.1.alpha.14-x86_64-linux.gem",
+      "checksum_sha256": "e0b091254d603db3f08e32330c9af376558f4fc3125b30e80251155c5856711f",
+      "size": 41472
+    },
+    {
+      "kind": "gem",
+      "name": "sqlite-vec-0.0.1.alpha.14-x86_64-mingw32.gem",
+      "path": "distx/gem/sqlite-vec-0.0.1.alpha.14-x86_64-mingw32.gem",
+      "checksum_sha256": "46556f8ec78bb07aed07a065d545c99e97000b29c8412667d949ef771b031f7a",
+      "size": 67584
+    },
+    {
+      "kind": "gem",
+      "name": "sqlite-vec-0.0.1.alpha.14-x86_64-darwin.gem",
+      "path": "distx/gem/sqlite-vec-0.0.1.alpha.14-x86_64-darwin.gem",
+      "checksum_sha256": "12f84800079f3d4d72a9040a219b334f825121cc1ed7cb8aa8233aac6fedae4d",
+      "size": 38912
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "owner": "Alex Garcia",
+  "name": "sqlite-lembed",
+  "version": "0.0.1-alpha.4",
+  "homepage": "https://alexgarcia.xyz/sqlite-lembed",
+  "repository": "https://github.com/asg017/sqlite-lembed",
+  "authors": [
+    "Alex Garcia"
+  ],
+  "license": "MIT OR Apache",
+  "description": "A SQLite extension for generating text embeddings.",
+  "keywords": [],
+  "symbols": null,
+  "assets": {
+    "pattern": null,
+    "files": {},
+    "checksums": {}
+  }
+}

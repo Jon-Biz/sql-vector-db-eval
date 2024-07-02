@@ -1,0 +1,25 @@
+{
+  "version": 0,
+  "description": "A SQLite extension for generating text embeddings.",
+  "loadable": [
+    {
+      "os": "linux",
+      "cpu": "x86_64",
+      "url": "https://github.com/asg017/sqlite-lembed/releases/download/v0.0.1-alpha.4/sqlite-lembed-0.0.1-alpha.4-loadable-linux-x86_64.tar.gz",
+      "checksum_sha256": "01bf71a6402c1bcd76bce7245ccfd9757203874a3cdd0f7e65fa36ab8dd26d56"
+    },
+    {
+      "os": "macos",
+      "cpu": "x86_64",
+      "url": "https://github.com/asg017/sqlite-lembed/releases/download/v0.0.1-alpha.4/sqlite-lembed-0.0.1-alpha.4-loadable-macos-x86_64.tar.gz",
+      "checksum_sha256": "be525a795a6971284b1d3c113cd0dad08f75c273bd37eaaa851010872f6c26dc"
+    },
+    {
+      "os": "macos",
+      "cpu": "aarch64",
+      "url": "https://github.com/asg017/sqlite-lembed/releases/download/v0.0.1-alpha.4/sqlite-lembed-0.0.1-alpha.4-loadable-macos-aarch64.tar.gz",
+      "checksum_sha256": "4d12a3ee76920e9f9f626c8b9bc9fbc74f1e265ca16c44fbfd2574bd7a459183"
+    }
+  ],
+  "static": null
+}

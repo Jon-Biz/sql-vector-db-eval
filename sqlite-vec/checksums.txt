@@ -1,0 +1,6 @@
+sqlpkg.json 36a41d54389e949a7f05143341026042a424cfd20e83a2605fa70234d61f201b
+spm.json 514f00f9db1f567eb13678f84567136c600c951d2a5d85279ba6235301fc201e
+sqlite-vec-0.0.1-alpha.14-loadable-macos-aarch64.tar.gz f0869db60f6de86d234466d4074cc8bb34230c2ed8c4f88728a566f7fa758bd1
+sqlite-vec-0.0.1-alpha.14-loadable-linux-x86_64.tar.gz 49feb412ac062c0f9e0a6cd14f3845e29626209f91ee09968fa0bebf00927f5c
+sqlite-vec-0.0.1-alpha.14-loadable-windows-x86_64.tar.gz 2dcbaae89f84105516a2a3d9e21699a39984df1b53bf29fd37c24323f576ac57
+sqlite-vec-0.0.1-alpha.14-loadable-macos-x86_64.tar.gz 542447aaedcf8ab6f05f08bb7c9f7b5cdcff9eb40d8ce771c63ffea78c0a9d45
